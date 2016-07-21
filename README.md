@@ -1,2 +1,1 @@
-# Hello-World
-Just learn
+Hello welcome to my Git hub
